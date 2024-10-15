@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#f9ccf9 ;}
+
+h1{// <uniquifier>: Use a unique and descriptive class name
+  // <weight>: Use a value from 100 to 400
+
+  .playwrite-de-grund-<uniquifier> {
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+  text-align: center;
+  color: magenta;
+}
+
+hr{
+  color: magenta;
+  
+}
+
+h2{
+  text-align: center;
+  color: magenta;}
+
+
+h3{
+  text-align: center;
+  color: magenta;}
+
+h4{
+  text-align: center;
+  color: magenta;}
+
